@@ -1,0 +1,2 @@
+a="Helo"
+print(len(a))
